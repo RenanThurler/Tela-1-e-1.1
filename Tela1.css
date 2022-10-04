@@ -1,0 +1,45 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+.Janela
+{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.box1
+{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 60px;
+    width: 350px;
+    background-color: blueviolet;
+    color: white;
+    font-family: "Nunito Sans", sans-serif;
+}
+.box2
+{
+    margin-top: 5px;
+    justify-content: center;
+    height: 250px;
+    width: 350px;
+    background-color: blueviolet;
+    color: white;
+    font-family: "Nunito Sans", sans-serif;
+}
+.Texto
+{
+    margin-left: 5%;
+}
+input
+{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+}
